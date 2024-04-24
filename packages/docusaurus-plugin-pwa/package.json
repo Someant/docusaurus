@@ -34,7 +34,7 @@
     "tslib": "^2.3.1",
     "webpack": "^5.70.0",
     "webpack-merge": "^5.8.0",
-    "workbox-build": "^6.5.1",
+    "workbox-build": "^7.1.0",
     "workbox-precaching": "^6.5.1",
     "workbox-window": "^6.5.1"
   },
