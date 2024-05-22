@@ -32,7 +32,7 @@
     "hast-util-to-string": "^1.0.4",
     "html-tags": "^3.1.0",
     "import-fresh": "^3.3.0",
-    "jscodeshift": "^0.13.1",
+    "jscodeshift": "^0.14.0",
     "rehype-parse": "^7.0.1",
     "remark-parse": "^8.0.2",
     "remark-stringify": "^8.1.0",
