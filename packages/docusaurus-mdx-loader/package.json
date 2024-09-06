@@ -22,7 +22,7 @@
     "@babel/traverse": "^7.17.3",
     "@docusaurus/logger": "2.0.0-beta.17",
     "@docusaurus/utils": "2.0.0-beta.17",
-    "@mdx-js/mdx": "^1.6.22",
+    "@mdx-js/mdx": "^2.0.0",
     "escape-html": "^1.0.3",
     "file-loader": "^6.2.0",
     "fs-extra": "^10.0.1",
@@ -33,7 +33,7 @@
     "tslib": "^2.3.1",
     "unist-util-visit": "^2.0.2",
     "url-loader": "^4.1.1",
-    "webpack": "^5.70.0"
+    "webpack": "^5.79.0"
   },
   "devDependencies": {
     "@docusaurus/types": "2.0.0-beta.17",
