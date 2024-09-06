@@ -34,7 +34,7 @@
     "watch": "tsc --watch"
   },
   "dependencies": {
-    "@crowdin/cli": "^3.7.8",
+    "@crowdin/cli": "^3.9.2",
     "@crowdin/crowdin-api-client": "^1.15.0",
     "@docusaurus/core": "2.0.0-beta.17",
     "@docusaurus/logger": "2.0.0-beta.17",
@@ -61,7 +61,7 @@
     "react-popper": "^2.2.5",
     "rehype-katex": "^6.0.2",
     "remark-math": "^3.0.1",
-    "swc-loader": "^0.1.15",
+    "swc-loader": "^0.1.16",
     "unist-util-visit": "^2.0.2",
     "workbox-routing": "^6.5.1",
     "workbox-strategies": "^6.5.1"
