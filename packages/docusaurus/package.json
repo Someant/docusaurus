@@ -54,7 +54,7 @@
     "babel-loader": "^8.2.3",
     "babel-plugin-dynamic-import-node": "2.3.0",
     "boxen": "^6.2.1",
-    "chokidar": "^3.5.3",
+    "chokidar": "^4.0.0",
     "clean-css": "^5.2.4",
     "cli-table3": "^0.6.1",
     "combine-promises": "^1.1.0",
