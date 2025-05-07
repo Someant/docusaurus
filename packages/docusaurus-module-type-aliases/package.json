@@ -16,7 +16,7 @@
     "@types/react": "*",
     "@types/react-router-config": "*",
     "@types/react-router-dom": "*",
-    "react-helmet-async": "*"
+    "react-helmet-async": "2.0.0"
   },
   "peerDependencies": {
     "react": "*",
