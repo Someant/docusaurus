@@ -76,7 +76,7 @@
     "import-fresh": "^3.3.0",
     "is-root": "^2.1.0",
     "leven": "^3.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "mini-css-extract-plugin": "^2.6.0",
     "nprogress": "^0.2.0",
     "postcss": "^8.4.12",
@@ -100,7 +100,7 @@
     "url-loader": "^4.1.1",
     "wait-on": "^6.0.1",
     "webpack": "^5.70.0",
-    "webpack-bundle-analyzer": "^4.5.0",
+    "webpack-bundle-analyzer": "^5.2.0",
     "webpack-dev-server": "^4.7.4",
     "webpack-merge": "^5.8.0",
     "webpackbar": "^5.0.2"
