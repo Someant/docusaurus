@@ -25,7 +25,7 @@
     "@docusaurus/utils-validation": "2.0.0-beta.17",
     "eta": "^1.12.3",
     "fs-extra": "^10.0.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "tslib": "^2.3.1"
   },
   "devDependencies": {
